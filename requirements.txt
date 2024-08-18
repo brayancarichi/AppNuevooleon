@@ -3,11 +3,5 @@ leafmap==0.35.9
 pandas==2.2.2
 plotly==5.22.0
 streamlit==1.36.0
-pandas
-leafmap
-fiona
-rasterio
-xarray
-localtileserver
-psutil
+
 
